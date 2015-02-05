@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423099019 source:c:\users\javier\documents\practica algoritmos\mergesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
